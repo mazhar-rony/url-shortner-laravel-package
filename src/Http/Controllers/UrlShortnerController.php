@@ -1,12 +1,12 @@
 <?php
 
-namespace Pondit\UrlShortner\Http\Controllers;
+namespace Mazhar\UrlShortner\Http\Controllers;
 
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Log;
 use App\Http\Controllers\Controller;
 use Illuminate\Database\QueryException;
-use Pondit\UrlShortner\Models\UrlShortner;
+use Mazhar\UrlShortner\Models\UrlShortner;
 
 class UrlShortnerController extends Controller
 {

@@ -19,7 +19,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Pondit\\UrlShortner\\UrlShortnerServiceProvider"
+                "Mazhar\\UrlShortner\\UrlShortnerServiceProvider"
             ]
         }
     }

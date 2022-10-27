@@ -2,7 +2,7 @@
 
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
-use Pondit\UrlShortner\Http\Controllers\UrlShortnerController;
+use Mazhar\UrlShortner\Http\Controllers\UrlShortnerController;
 
 Route::middleware('web')->group(function () {
 

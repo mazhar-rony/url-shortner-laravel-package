@@ -1,6 +1,6 @@
 <?php
 
-namespace Pondit\UrlShortner\Models;
+namespace Mazhar\UrlShortner\Models;
 
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;

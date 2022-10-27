@@ -1,5 +1,5 @@
 <?php
-namespace Pondit\UrlShortner;
+namespace Mazhar\UrlShortner;
 
 use Illuminate\Support\ServiceProvider;
 
