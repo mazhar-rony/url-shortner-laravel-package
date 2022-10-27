@@ -1,0 +1,26 @@
+{
+    "name": "pondit/url-shortner",
+    "description": "This package will let users create short url and save it in database",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "mazhar",
+            "email": "mazhar.rony@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Pondit\\UrlShortner\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Pondit\\UrlShortner\\UrlShortnerServiceProvider"
+            ]
+        }
+    }
+}
