@@ -13,7 +13,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "Pondit\\UrlShortner\\": "src/"
+            "Mazhar\\UrlShortner\\": "src/"
         }
     },
     "extra": {
