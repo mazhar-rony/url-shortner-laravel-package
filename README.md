@@ -9,3 +9,5 @@
 
 **Installation:** `composer require mazhar-rony/url-shortner`\
     &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; `php artisan migrate`
+
+**Usages:** http://127.0.0.1:8000/url-shortners
