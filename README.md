@@ -7,5 +7,5 @@
 
 ## This package will let users create short url and save it in database
 
-**Installation:** `composer require mazhar-rony/url-shortner`
-                  `php artisan migrate`
+**Installation:** `composer require mazhar-rony/url-shortner`\
+    &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; `php artisan migrate`
